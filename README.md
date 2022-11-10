@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nico Di Piazza, a young spftware developer.
+- 👋 Hi, I’m Nico Di Piazza, a young software engineer.
 - 👀 I’m interested in robotics engineering and web games. Machine learning is a side hobby.
 - 🌱 I’m currently learning about neural netwroks and web APIs.
 - 💞️ I’m looking to work/commissions.
