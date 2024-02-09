@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nico Di Piazza, a young software engineer.
 - 👀 I’m interested in robotics engineering and web games. Machine learning is a side hobby.
-- 🌱 I’m currently learning about neural networks and web APIs.
+- 🌱 I’m currently learning about 3D graphics programming and shaders.
 - 💞️ I’m looking for work/commissions.
 - 📫 How to reach me: email: nicodipiazza1@gmail.com
 - I like: dogs, pizza, and long romantic walks on the beach.
