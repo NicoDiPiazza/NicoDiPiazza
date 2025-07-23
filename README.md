@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning about 3D graphics programming and shaders.
 - 💞️ I’m looking for work/commissions.
 - 📫 How to reach me: email: nicodipiazza1@gmail.com
+- HTML, P5JS, Python, Java, php, MATLAB, Solidity, CSS, C++, Emojicode, Brainf**k
 
 <!---
 NicoDiPiazza/NicoDiPiazza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
