@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Nico Di Piazza, a young software engineer.
-- 👀 I’m interested in robotics engineering and web games. Machine learning is a side hobby.
-- 🌱 I’m currently learning about 3D graphics programming and shaders.
+- 👀 I’m interested in robotics engineering.
+- 🌱 I’m currently learning about SaaS development and Blockchain tech.
 - 💞️ I’m looking for work/commissions.
 - 📫 How to reach me: email: nicodipiazza1@gmail.com
-- HTML, P5JS, Python, Java, php, MATLAB, Solidity, CSS, C++, Emojicode, Brainf**k
+- HTML, P5JS, Python, Java, php, MATLAB, Solidity, CSS, C++, Emojicode, Brainf**k, Rust
 
 <!---
 NicoDiPiazza/NicoDiPiazza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
